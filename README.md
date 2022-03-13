@@ -6,6 +6,6 @@
 
     react-native run-ios 
     
- # the project is based javascript not typescript 
+ #the project is based javascript not typescript 
  
- # enjoy 
+ #enjoy 
